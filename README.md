@@ -1,0 +1,3 @@
+# Galaw
+
+JavaScript animation library.
